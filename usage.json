@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/connectix-docs",
+  "packageVersion": "0.1.2",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/connectix-docs",
+  "usageRepository": "https://github.com/x12i-sdk/connectix",
+  "sourceRepository": "https://github.com/x12i/connectix",
+  "sourceCommit": "d024b16b986b864a76cbf533f43ae1752f459a2a",
+  "sourcePackageDirectory": "packages/connectix-docs",
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:01:20.440673+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "65467988557eb83a1f43ed5acc6d5e40580979355292df44cfd855b34c39ced9",
+    "manifestSha256": "de6918a3990605c93b6b4ca5760b15e4c2d6b4b49a8e1b2239c04134a0feec13"
+  },
+  "npmPackages": [
+    "@x12i/connectix-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
